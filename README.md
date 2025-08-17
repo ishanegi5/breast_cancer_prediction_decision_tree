@@ -54,14 +54,16 @@ The dataset (`data.csv`) contains labeled instances, and the project walks throu
    ```bash
    git clone https://github.com/ishanegi5/breast-cancer-prediction-decision-tree.git
    cd breast-cancer-prediction-decision-tree
+   
 Install dependencies:
 
 
 pip install -r requirements.txt
+
 Open the notebook:
 
-
 jupyter notebook breast_cancer_small_project.ipynb
+
 📜 License
 This project is open-source and available under the MIT License.
 
