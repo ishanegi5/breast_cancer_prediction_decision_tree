@@ -9,7 +9,7 @@ The dataset (`data.csv`) contains labeled instances, and the project walks throu
 ## 📂 Files in this Repository
 - `breast_cancer_small_project.ipynb` → Jupyter Notebook with full code, training, and evaluation.
 - `data.csv` → Breast cancer dataset used in this project.
-- (Optional) `roc_auc_curve.png` → ROC-AUC curve visualization (generated during notebook execution).
+
 
 ---
 
